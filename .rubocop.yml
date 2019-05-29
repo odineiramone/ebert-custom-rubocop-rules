@@ -1,0 +1,12 @@
+inherit_from:
+  - .rubocop-plataformatec.yml
+
+Style/AsciiComments:
+  Enabled: true
+
+Style/StringLiterals:
+  Enabled: false
+  EnforcedStyle: double_quotes
+  SupportedStyles:
+    - single_quotes
+    - double_quotes
