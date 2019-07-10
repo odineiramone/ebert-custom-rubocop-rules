@@ -1,3 +1,5 @@
+# Non-ascii comment 日本語
+
 module Ebert
   module Custom
     module Rubocop
