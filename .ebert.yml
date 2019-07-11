@@ -1,4 +1,4 @@
-styleguide: odineiramone/linters
+styleguide: beatrizchagas/linters
 engines:
   reek:
     enabled: true
